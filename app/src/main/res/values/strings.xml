@@ -1,0 +1,36 @@
+<!--
+  ~ Copyright (C) 2016. The Android Open Source Project.
+  ~
+  ~          yinglovezhuzhu@gmail.com
+  ~
+  ~  Licensed under the Apache License, Version 2.0 (the "License");
+  ~  you may not use this file except in compliance with the License.
+  ~  You may obtain a copy of the License at
+  ~
+  ~           http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~  Unless required by applicable law or agreed to in writing, software
+  ~  distributed under the License is distributed on an "AS IS" BASIS,
+  ~  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~  See the License for the specific language governing permissions and
+  ~  limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">MVPDemo</string>
+
+    <string name="str_id_label">ID:</string>
+    <string name="str_name_label">NAME:</string>
+    <string name="str_age_label">AGE:</string>
+    <string name="str_email_label">EMAIL:</string>
+
+    <string name="str_save">Save</string>
+    <string name="str_load">Load</string>
+
+    <string name="str_id_is_null">Id is null</string>
+    <string name="str_name_is_null">Name is null</string>
+    <string name="str_age_is_null">Age is null</string>
+    <string name="str_email_is_null">Email is null</string>
+
+    <string name="str_save_failed">Save failed</string>
+</resources>
